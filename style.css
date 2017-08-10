@@ -1,0 +1,72 @@
+body{
+	background-color: #eee;
+	padding-top: 50px;
+	/*overflow-x: hidden !important;*/ /*Stops horizontal scrolling caused by the jumbotron row*/
+}
+
+h2	{
+	color: #F5F5F5;
+}
+p
+{
+	color: #F5F5F5;
+}
+
+.about-me{
+	background-color: #34495e;
+}
+
+footer{
+	background-color: grey; /*#ecf0f1*/
+	height: 100%;
+	margin-top: 0px;
+	color: #ffffff;
+}
+
+.jumbotron{
+	background-image: url("img/jumboPic.jpg");
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: 0px;
+	max-height: 500px;
+	overflow-x: hidden !important;
+}
+
+#jumboText{
+	color: #ffffff;
+}
+
+#jumboBack {
+	background-color: #131210;
+}
+
+.social{
+	margin-bottom: 0;
+}
+
+.profilePic{
+	margin-top: 30px;
+}
+
+#viewMore{
+	margin-top: 250px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+section .row {
+	height: auto;
+}
+
