@@ -27,6 +27,7 @@ footer {
 	background-size: cover;
 	margin-bottom: 0px;
 	max-height: 500px;
+	min-width: 100%;
 }
 
 #jumboText {
